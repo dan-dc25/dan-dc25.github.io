@@ -1,11 +1,11 @@
 # Site settings
-author: Daniel Alves de Carvalho
-title: 
+author: Daniel Carvalho
+title: Cannot Load File
 header-img: img/home-bg.png
 email: danielcarvalhovr@gmail.com
-copyright_name: Daniel Alves de Carvalho
+copyright_name: Daniel Carvalho
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Code Monkey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dan-dc25
